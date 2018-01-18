@@ -1,0 +1,12 @@
+Source: vendors-phplot
+Maintainer: balazs.benedek <balazs.benedek@balabit.com>
+Priority: extra
+Section: php
+Build-Depends: debhelper (>= 7)
+Standards-Version: 6.2.0
+Homepage: http://phplot.sourceforge.net/
+
+Package: vendors-phplot
+Architecture: all
+Description: PHPlot is a graph library for dynamic scientific, business, and stock-market charts.
+    PHPlot allows PHP developers to create pie charts, bar graphs, line graphs, point graphs, etc. from a PHP application.

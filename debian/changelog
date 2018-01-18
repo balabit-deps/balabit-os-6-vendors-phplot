@@ -1,0 +1,5 @@
+vendors-phplot (6.2.0-1) balabit-os-6.0; urgency=low
+
+  * Initial release.
+
+ -- Balazs Benedek <balazs.benedek@balabit.com>  Thu, 18 Jan 2018 09:23:33 +0100

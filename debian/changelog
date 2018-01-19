@@ -1,3 +1,9 @@
+vendors-phplot (6.2.0-2) balabit-os-6.0; urgency=low
+
+  * Added rgb.inc.php
+
+ -- Balazs Benedek <balazs.benedek@balabit.com>  Fri, 19 Jan 2018 10:30:26 +0100
+
 vendors-phplot (6.2.0-1) balabit-os-6.0; urgency=low
 
   * Initial release.

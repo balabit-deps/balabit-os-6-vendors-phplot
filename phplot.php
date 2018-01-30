@@ -689,6 +689,11 @@ class PHPlot
         $this->SetDefaultFonts();
     }
 
+    public function setImageHeight($height)
+    {
+        $this->image_height = $height;
+    }
+
     /**
      * Prepares object for serialization
      *

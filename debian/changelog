@@ -1,3 +1,9 @@
+vendors-phplot (6.2.0-3) balabit-os-6.0; urgency=low
+
+  * Make it possible to set plot image height, because of the SSB code
+
+ -- Balazs Benedek <balazs.benedek@balabit.com>  Tue, 30 Jan 2018 14:20:18 +0100
+
 vendors-phplot (6.2.0-2) balabit-os-6.0; urgency=low
 
   * Added rgb.inc.php
